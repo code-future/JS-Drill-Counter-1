@@ -1,0 +1,26 @@
+{
+  "name": "js-drill-counter-1",
+  "version": "1.0.0",
+  "description": "## In this drill, you'll be creating a counter with an increase, decrease, and log button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-future/JS-Drill-Counter-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-future/JS-Drill-Counter-1/issues"
+  },
+  "homepage": "https://github.com/code-future/JS-Drill-Counter-1#readme",
+  "devDependencies": {
+    "jest": "23.1.0"
+  },
+  "jest": {
+    "reporters": ["default", "<rootDir>/cf-reporter.js"]
+  }
+
+}

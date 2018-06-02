@@ -1,0 +1,88 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 1,
+  "numPassedTests": 3,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTotalTestSuites": 1,
+  "numTotalTests": 3,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1527969789619,
+  "success": false,
+  "testResults": [
+    {
+      "console": null,
+      "failureMessage": null,
+      "numFailingTests": 0,
+      "numPassingTests": 3,
+      "numPendingTests": 0,
+      "perfStats": {
+        "end": 1527969792842,
+        "start": 1527969792380
+      },
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "unmatched": 0,
+        "updated": 0,
+        "uncheckedKeys": []
+      },
+      "testFilePath": "/Users/Seephus/sidePieces/cf/JS-Drill-Counter-1/spec/test.js",
+      "testResults": [
+        {
+          "ancestorTitles": [],
+          "duration": 7,
+          "failureMessages": [],
+          "fullName": "Count",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "Count"
+        },
+        {
+          "ancestorTitles": [],
+          "duration": 4,
+          "failureMessages": [],
+          "fullName": "Increment count",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "Increment count"
+        },
+        {
+          "ancestorTitles": [],
+          "duration": 2,
+          "failureMessages": [],
+          "fullName": "Decrement count",
+          "location": null,
+          "numPassingAsserts": 0,
+          "status": "passed",
+          "title": "Decrement count"
+        }
+      ],
+      "sourceMaps": {},
+      "skipped": false,
+      "leaks": false
+    }
+  ],
+  "wasInterrupted": false
+}
