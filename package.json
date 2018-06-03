@@ -20,7 +20,13 @@
     "jest": "23.1.0"
   },
   "jest": {
-    "reporters": ["default", "<rootDir>/cf-reporter.js"]
+    "reporters": [
+      "default",
+      "<rootDir>/cf-reporter.js"
+    ]
+  },
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
   }
-
 }

@@ -1,4 +1,5 @@
 //Create a variable called "count"
+var count = 0;
 function increaseCount () {
   //Define a function that increases the count variable
 }
